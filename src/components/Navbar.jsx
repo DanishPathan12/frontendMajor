@@ -12,7 +12,7 @@ function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="text-2xl font-bold text-green-600">
-              Freelancer
+              CraftConnect
             </Link>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
               <Link to="/gigs" className="text-gray-700 hover:text-green-600 px-3 py-2">
